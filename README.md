@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World ?
+I am a 5th year student of Computer Science at Kielce University of Technology, holding an engineering degree in the same field. I have done numerous projects in various technologies, with a focus on artificial intelligence and machine learning. I am ambitious, enjoy teamwork and am constantly expanding my skills. I am currently focused on Game Development, exploring Unity and Unreal Engine. I am also writing my Master's thesis on machine learning in the Unity environment, while looking for career opportunities in IT
+- ? Learning design patterns in depth
+<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adrian-chmielowiec-inf/)[<img align="left" alt="gmail" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png" />](mailto:a.chmielowiec.ing@gmail.com)<br>
+<br>## Expertise
+<img align="left" alt="unity" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" /><img align="left" alt="unreal-engine" src="https://logos-world.net/wp-content/uploads/2021/06/Unreal-Engine-New-Logo.png" /><img align="left" alt="open-gl" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" /><img align="left" alt="open-gl" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" /><img align="left" alt="tensorflow" src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange-thumbnail.png" /><br>
+<br>
 
 <!--
 **Hi-Im-Ghost/Hi-Im-Ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
