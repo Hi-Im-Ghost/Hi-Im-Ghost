@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a 5th year student of Computer Science at Kielce University of Technology, holding an engineering degree in the same field. I have done numerous projects in various technologies, with a focus on artificial intelligence and machine learning. I am ambitious, enjoy teamwork and am constantly expanding my skills. I am currently focused on Game Development, exploring Unity and Unreal Engine. I am also writing my Master's thesis on machine learning in the Unity environment, while looking for career opportunities in IT.
+I am a graduate of Computer Science at Kielce University of Technology with a Master's degree in Computer Graphics. My thesis on machine learning in the Unity environment, which I defended, was graded 5 and awarded a distinction. In addition to this, I have done multiple projects in various technologies, with a special focus on Unity, Unreal Engine, artificial intelligence and machine learning. I am ambitious, enjoy teamwork and am constantly developing my skills. I am currently focusing on game development, exploring Unity and Unreal Engine. 
 
 <br>
 
